@@ -1,8 +1,22 @@
-## 萌ICP备现存备案记录
-本项目记录了2023-2026.2.13的现存备案记录
+# 📋 萌ICP备现存备案记录
+MoeICP-Record 是一款专注于记录ICP备案信息的项目📝，完整留存了2023年至2026年2月13日期间的现存备案记录，依托轻量技术栈实现备案信息的存储、查询与展示。
 
-## 预览
-<img width="1920" height="1080" alt="QQ_1770977487104" src="https://github.com/user-attachments/assets/104584ac-a181-459d-9ff4-219895238bb7" />
-<img width="1920" height="1080" alt="QQ_1770977526868" src="https://github.com/user-attachments/assets/f33584ad-b516-4e49-b189-309e9f26f08f" />
-<img width="1920" height="1080" alt="QQ_1770977545899" src="https://github.com/user-attachments/assets/97c29bb3-99ee-456a-8450-de0b53534b52" />
-<img width="1920" height="1080" alt="QQ_1770977565957" src="https://github.com/user-attachments/assets/d000b254-0490-49e3-ad95-0ef408a5bd88" />
+## 📄 项目基础信息
+| 项目信息 | 详情 |
+| ---- | ---- |
+| 技术栈 | PHP、SQLite |
+| 记录时间范围 | 2023 - 2026.2.13 |
+| 核心功能 | ICP备案记录存储、备案信息查询、备案详情展示 |
+| 数据文件 | 含db数据库文件、json数据文件，支持多格式数据读写 |
+
+## 🖼️ 项目预览
+| 预览 | 预览 |
+| ---- | ---- |
+| ![QQ_1770977487104](https://github.com/user-attachments/assets/104584ac-a181-459d-9ff4-219895238bb7) | ![QQ_1770977526868](https://github.com/user-attachments/assets/f33584ad-b516-4e49-b189-309e9f26f08f) |
+| ![QQ_1770977545899](https://github.com/user-attachments/assets/97c29bb3-99ee-456a-8450-de0b53534b52) | ![QQ_1770977565957](https://github.com/user-attachments/assets/d000b254-0490-49e3-ad95-0ef408a5bd88) |
+
+## ✨ 项目特点
+1. **轻量易部署⚡**：基于PHP+SQLite开发，无需复杂的服务端配置，SQLite为文件型数据库，开箱即用；
+2. **多格式数据存储💾**：同时提供db数据库文件和json文件，兼顾数据的高效查询和便捷的跨平台读取；
+3. **功能模块化🧰**：将首页、搜索、详情展示拆分为独立PHP文件，代码解耦，便于二次开发和功能扩展；
+4. **长期数据留存📅**：完整记录近3年的ICP备案现存信息，具备一定的行业数据参考价值。
