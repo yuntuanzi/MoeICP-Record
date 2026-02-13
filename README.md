@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/License-MIT-ff7675.svg?style=for-the-badge" alt="License">
 </p>
 
-<p align="center">
-  <em>爬取2023-2026年备案记录，一站式存储、查询、可视化</em>
-</p>
-
 <div align="center">
 
 [📖 项目介绍](#-项目介绍) • 
